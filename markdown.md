@@ -1,3 +1,3 @@
+<http://example.com/>
 
-AT&T
-4 < 5
+<address@example.com>
